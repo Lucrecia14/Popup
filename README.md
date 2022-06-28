@@ -1,2 +1,2 @@
 # Popup
- creating a popup message wih javascript
+ Creating a popup message wih HTML, CSS and Javascript
